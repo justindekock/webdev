@@ -1,0 +1,3 @@
+-- Repo created 05/30/2025
+-- All configs/code for locally hosting Apache web server that interacts with locally hosted MariaDB (mySQL) database server via an API
+-- Still making a decision on the API - thinking of using Go
